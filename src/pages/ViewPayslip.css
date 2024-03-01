@@ -1,0 +1,19 @@
+#view-payslip-page ion-item h2 {
+  font-weight: 600;
+}
+
+#view-payslip-page ion-label.text-wrap {
+  display: flex;
+}
+
+#view-payslip-page ion-note.detail {
+  margin-left: 16px;
+  margin-top: 2px;
+}
+
+#view-payslip-page ion-button.download-btn {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  margin-top: 1rem;
+}
